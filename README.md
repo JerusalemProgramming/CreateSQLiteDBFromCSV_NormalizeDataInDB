@@ -11,6 +11,6 @@ CreateSQLiteDBFromCSV_NormalizeDataInDB
 <li>Developed, integrated, and implemented comprehensive tracking for email metrics (sent, delivered, opened, clicked, bounced, complained, unsubscribed, attempts) to monitor campaign performance and engagement.</li>
 <li>RESULTS: Increased lead generation and inbound inquiries by many 1000s of %.</li>
 </ol>
-
+</br>URL: https://ZZFinancing.com
 </br>GITHUB: https://github.com/JerusalemProgramming/CreateSQLiteDBFromCSV_NormalizeDataInDB
 </br>GITHUB: https://github.com/JerusalemProgramming/AutomatedPythonMailgunMassEmailer
