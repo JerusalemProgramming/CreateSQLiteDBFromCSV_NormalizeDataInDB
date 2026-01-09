@@ -12,6 +12,5 @@ CreateSQLiteDBFromCSV_NormalizeDataInDB
 <li>RESULTS: Increased lead generation and inbound inquiries by many 1000s of %.</li>
 </ol>
 
-</br>
 </br>GITHUB: https://github.com/JerusalemProgramming/CreateSQLiteDBFromCSV_NormalizeDataInDB
 </br>GITHUB: https://github.com/JerusalemProgramming/AutomatedPythonMailgunMassEmailer
